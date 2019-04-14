@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body{
+	font-family: 'Lato', sans-serif;
+}
+
+p{
+	font-size: 14px;
+}
+
+.logo{
+	width: 70%;
+}
+
+.navtext{
+	font-size: 13px;
+}
+
+.carousel-caption{
+	width: 40%;
+	top: 20%;
+	position: absolute;
+
+}
+.carousel-caption h4 p{
+ 	text-decoration-color: #fff;
+}
+.card{
+	opacity: .4;
+}
+.alert{
+	background-color: #E0FFFF;
+}
+.destaque{
+	width: 47%;
+}
+.work{
+	width: 110%;
+}
